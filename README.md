@@ -1,10 +1,10 @@
 # dockstat
-![GitHub release](https://img.shields.io/github/v/release/wpxq/dockstat?style=for-the-badge&color=blue)
-![License](https://img.shields.io/github/license/wpxq/dockstat?style=for-the-badge&color=green)
-![GitHub all releases](https://img.shields.io/github/downloads/wpxq/dockstat/total?style=for-the-badge&color=green)
+![GitHub release](https://img.shields.io/github/v/release/wreakdev/dockstat?style=for-the-badge&color=blue)
+![License](https://img.shields.io/github/license/wreakdev/dockstat?style=for-the-badge&color=green)
+![GitHub all releases](https://img.shields.io/github/downloads/wreakdev/dockstat/total?style=for-the-badge&color=green)
 
-![dockstat](https://github.com/wpxq/dockstat/blob/main/dockstat.png)
-![dockstat running](https://github.com/wpxq/dockstat/blob/main/dockstat_running.png)
+![dockstat](https://github.com/wreakdev/dockstat/blob/main/dockstat.png)
+![dockstat running](https://github.com/wreakdev/dockstat/blob/main/dockstat_running.png)
 
 ---
 
@@ -27,12 +27,12 @@ A minimalist, fast, and clean command-line tool for monitoring your running Dock
 ### Quick Install (Recommended)
 **Linux / MacOS**:
 ```bash
-curl -sSL https://raw.githubusercontent.com/wpxq/dockstat/main/dockstat_setup.sh | bash
+curl -sSL https://raw.githubusercontent.com/wreakdev/dockstat/main/dockstat_setup.sh | bash
 ```
 ### Manual Install (From Source)
 if you prefer to clone and build yourself:
 ```bash
-git clone https://github.com/wpxq/dockstat
+git clone https://github.com/wreakdev/dockstat
 cd dockstat
 chnod +x dockstat_setup.sh
 ./dockstat_setup.sh
